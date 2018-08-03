@@ -71,6 +71,8 @@ http://lihattv.us/?play=43355
 https://my.iptvx.co:443/live/iptvx/iptvx/1760.ts
 #EXTINF:-1,HBO.
 https://my.iptvx.co:443/live/iptvx/iptvx/2328.ts
+#EXTINF:-1,M2O Music
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,MTV USA.
 https://my.iptvx.co:443/live/iptvx/iptvx/2325.ts
 #EXTINF:-1,[TV] SONY CHANNEL
