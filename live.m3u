@@ -79,6 +79,8 @@ http://lihattv.us/?play=43347
 http://lihattv.us/?play=43348
 #EXTINF:-1,Outdoor Channel.
 https://my.iptvx.co:443/live/iptvx/iptvx/2324.ts
+#EXTINF:-1,London Live HD
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-1,[MY] TV1
 http://lihattv.us/?play=43330
 #EXTINF:-1,[MY] TV2
