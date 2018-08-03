@@ -55,6 +55,8 @@ http://lihattv.us/?play=43350
 http://lihattv.us/?play=43340
 #EXTINF:-1,[TV] AXN
 http://lihattv.us/?play=43341
+#EXTINF:-1,[USA] BBC America
+http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/2228.ts
 #EXTINF:-1,[TV] FOX LIFE
 http://lihattv.us/?play=43342
 #EXTINF:-1,[TV] FOX
