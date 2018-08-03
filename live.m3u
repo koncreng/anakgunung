@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1,-------I N D O N E S I A-------
-http://anakgunung.ts
 #EXTINF:-1,[ID] ANTV
 http://lihattv.us/?play=43397
+#EXTINF:-1,[ID] BERITA SATU World
+http://lihattv.us/?play=43725
+#EXTINF:-1,[ID] BERITA SATU HD
+http://lihattv.us/?play=43724
 #EXTINF:-1,[ID] INDOSIAR
 http://lihattv.us/?play=43400
 #EXTINF:-1,[ID] KOMPAS TV
@@ -29,12 +31,16 @@ http://lihattv.us/?play=43660
 http://lihattv.us/?play=43662
 #EXTINF:-1,[ID] DIAMOND Earth
 http://lihattv.us/?play=43663
-#EXTINF:-1,[TV] BIZNET KIDS (Kids · Indonesia)
-http://lihattv.us/?play=43680
+#EXTINF:-1,Discovery HD.
+https://my.iptvx.co:443/live/iptvx/iptvx/1745.ts
+#EXTINF:-1,Discovery Science.
+https://my.iptvx.co:443/live/iptvx/iptvx/2601.ts
 #EXTINF:-1,[TV] DA VINCI KIDS (Kids · Indonesia)
 http://lihattv.us/?play=43339
 #EXTINF:-1,[TV] DA VINCI LEARNING (Kids · Indonesia)
 http://lihattv.us/?play=16059
+#EXTINF:-1,Animal Planet.
+https://my.iptvx.co:443/live/iptvx/iptvx/1747.ts
 #EXTINF:-1,[TV] ANIMAX (Kids · Indonesia)
 http://lihattv.us/?play=43338
 #EXTINF:-1,[TV] ANIPLUS (Kids · Indonesia)
@@ -53,12 +59,26 @@ http://lihattv.us/?play=43341
 http://lihattv.us/?play=43342
 #EXTINF:-1,[TV] FOX
 http://lihattv.us/?play=43346
+#EXTINF:-1,[TV] FOX SPORTS Indonesia
+http://lihattv.us/?play=43353
+#EXTINF:-1,[TV] FOX SPORTS 2
+http://lihattv.us/?play=43354
+#EXTINF:-1,[TV] FOX SPORTS 3
+http://lihattv.us/?play=43355
+#EXTINF:-1,HBO HD (id)
+https://my.iptvx.co:443/live/iptvx/iptvx/1760.ts
+#EXTINF:-1,HBO.
+https://my.iptvx.co:443/live/iptvx/iptvx/2328.ts
+#EXTINF:-1,MTV USA.
+https://my.iptvx.co:443/live/iptvx/iptvx/2325.ts
 #EXTINF:-1,[TV] SONY CHANNEL
 http://lihattv.us/?play=43344
 #EXTINF:-1,[TV] NATGEO
 http://lihattv.us/?play=43347
 #EXTINF:-1,[TV] NATGEO WILD
 http://lihattv.us/?play=43348
+#EXTINF:-1,Outdoor Channel.
+https://my.iptvx.co:443/live/iptvx/iptvx/2324.ts
 #EXTINF:-1,[MY] TV1
 http://lihattv.us/?play=43330
 #EXTINF:-1,[MY] TV2
@@ -111,6 +131,8 @@ http://lihattv.us/?play=43665
 http://lihattv.us/?play=43714
 #EXTINF:-1,[TV] ABC Australia
 http://lihattv.us/?play=43688
+#EXTINF:-1,[TV] ALJAZEERA
+http://lihattv.us/?play=43678
 #EXTINF:-1,[TV] CBS NEWS
 http://lihattv.us/?play=43676
 #EXTINF:-1,[TV] FRANCE 24
@@ -119,5 +141,150 @@ http://lihattv.us/?play=43523
 http://lihattv.us/?play=43507
 #EXTINF:-1,[TV] DW English
 http://lihattv.us/?play=43519
+#EXTINF:-1,[TV] RTE Ireland
+http://lihattv.us/?play=43526
+#EXTINF:-1,[TV] SKY News UK
+http://lihattv.us/?play=43528
 #EXTINF:-1,[TV] THREE USA
 http://lihattv.us/?play=43522
+#EXTINF:-1,[TV] TRT World Turkey
+http://lihattv.us/?play=43506
+#EXTINF:-1,XXX 4
+http://iptvtool.es:9977/live/Tomas/Tomas/35472.ts
+#EXTINF:-1,XXX 5
+http://iptvtool.es:9977/live/Tomas/Tomas/35471.ts
+#EXTINF:-1,XXX 6
+http://iptvtool.es:9977/live/Tomas/Tomas/35470.ts
+#EXTINF:-1,XXX 7
+http://iptvtool.es:9977/live/Tomas/Tomas/35469.ts
+#EXTINF:-1,XXX 8
+http://iptvtool.es:9977/live/Tomas/Tomas/35468.ts
+#EXTINF:-1,XXX 9
+http://iptvtool.es:9977/live/Tomas/Tomas/35467.ts
+#EXTINF:-1,xxx Blacked FHD
+http://iptvtool.es:9977/live/Tomas/Tomas/35479.ts
+#EXTINF:-1,xxx BRAZZERS
+http://iptvtool.es:9977/live/Tomas/Tomas/35478.ts
+#EXTINF:-1,xxx Dorcel
+http://iptvtool.es:9977/live/Tomas/Tomas/35481.ts
+#EXTINF:-1,xxx ELIT ADULT 1
+http://iptvtool.es:9977/live/Tomas/Tomas/35465.ts
+#EXTINF:-1,xxx ELIT ADULT 10
+http://iptvtool.es:9977/live/Tomas/Tomas/35456.ts
+#EXTINF:-1,xxx ELIT ADULT 2
+http://iptvtool.es:9977/live/Tomas/Tomas/35464.ts
+#EXTINF:-1,xxx ELIT ADULT 3
+http://iptvtool.es:9977/live/Tomas/Tomas/35463.ts
+#EXTINF:-1,xxx ELIT ADULT 4
+http://iptvtool.es:9977/live/Tomas/Tomas/35462.ts
+#EXTINF:-1,xxx ELIT ADULT 6
+http://iptvtool.es:9977/live/Tomas/Tomas/35460.ts
+#EXTINF:-1,xxx ELIT ADULT 7
+http://iptvtool.es:9977/live/Tomas/Tomas/35459.ts
+#EXTINF:-1,xxx ELIT ADULT 8
+http://iptvtool.es:9977/live/Tomas/Tomas/35458.ts
+#EXTINF:-1,xxx ELIT ADULT 9
+http://iptvtool.es:9977/live/Tomas/Tomas/35457.ts
+#EXTINF:-1,xxx Hot Club 1 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35455.ts
+#EXTINF:-1,xxx Hot Club 10 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35446.ts
+#EXTINF:-1,xxx Hot Club 2 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35453.ts
+#EXTINF:-1,xxx Hot Club 3 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35454.ts
+#EXTINF:-1,xxx Hot Club 4 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35452.ts
+#EXTINF:-1,xxx Hot Club 5 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35451.ts
+#EXTINF:-1,xxx Hot Club 6 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35450.ts
+#EXTINF:-1,xxx Hot Club 7 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35449.ts
+#EXTINF:-1,xxx Hot Club 8 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35448.ts
+#EXTINF:-1,xxx Hot Club 9 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35447.ts
+#EXTINF:-1,xxx Hustler FHD
+http://iptvtool.es:9977/live/Tomas/Tomas/35485.ts
+#EXTINF:-1,xxx Moms Teach
+http://iptvtool.es:9977/live/Tomas/Tomas/35476.ts
+#EXTINF:-1,xxx PENTHOUSE 1 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35483.ts
+#EXTINF:-1,xxx PENTHOUSE 2 HD
+http://iptvtool.es:9977/live/Tomas/Tomas/35482.ts
+#EXTINF:-1,xxx Private
+http://iptvtool.es:9977/live/Tomas/Tomas/35480.ts
+#EXTINF:-1,xxx Red Light FHD
+http://iptvtool.es:9977/live/Tomas/Tomas/35484.ts
+#EXTINF:-1,xxx VIVID XXX
+http://iptvtool.es:9977/live/Tomas/Tomas/35477.ts
+#EXTINF:-1,[XXX]: Alba XXX-HD2
+http://iptvtool.es:9977/live/Tomas/Tomas/36051.ts
+#EXTINF:-1,xxx ELIT ADULT 5
+http://iptvtool.es:9977/live/Tomas/Tomas/35461.ts
+#EXTINF:-1,[XXX] : Blue Hustler
+http://iptvtool.es:9977/live/Tomas/Tomas/36028.ts
+#EXTINF:-1,[XXX] : BRAZZERS TV
+http://iptvtool.es:9977/live/Tomas/Tomas/36020.ts
+#EXTINF:-1,[XXX] : Czech Massage Tv
+http://iptvtool.es:9977/live/Tomas/Tomas/36041.ts
+#EXTINF:-1,[XXX] : Double anal Harlots Angel Piaff
+http://iptvtool.es:9977/live/Tomas/Tomas/35983.ts
+#EXTINF:-1,[XXX] : DUSK
+http://iptvtool.es:9977/live/Tomas/Tomas/36019.ts
+#EXTINF:-1,[XXX] : ERO XXX
+http://iptvtool.es:9977/live/Tomas/Tomas/36018.ts
+#EXTINF:-1,[XXX] : Evil Angel 1
+http://iptvtool.es:9977/live/Tomas/Tomas/36034.ts
+#EXTINF:-1,[XXX] : Evil Angel Tv
+http://iptvtool.es:9977/live/Tomas/Tomas/36035.ts
+#EXTINF:-1,[XXX] : Fake Taxi Tv
+http://iptvtool.es:9977/live/Tomas/Tomas/36039.ts
+#EXTINF:-1,[XXX] : Hot
+http://iptvtool.es:9977/live/Tomas/Tomas/36029.ts
+#EXTINF:-1,[XXX] : HOT CLUB 1
+http://iptvtool.es:9977/live/Tomas/Tomas/36013.ts
+#EXTINF:-1,[XXX] : HOT CLUB 2
+http://iptvtool.es:9977/live/Tomas/Tomas/36012.ts
+#EXTINF:-1,[XXX] : HOT CLUB 3
+http://iptvtool.es:9977/live/Tomas/Tomas/36011.ts
+#EXTINF:-1,[XXX] : HOT CLUB 4
+http://iptvtool.es:9977/live/Tomas/Tomas/36010.ts
+#EXTINF:-1,[XXX] : HOT CLUB 5
+http://iptvtool.es:9977/live/Tomas/Tomas/36009.ts
+#EXTINF:-1,[XXX] : HOT CLUB 6
+http://iptvtool.es:9977/live/Tomas/Tomas/36008.ts
+#EXTINF:-1,[XXX] : HOT CLUB 7
+http://iptvtool.es:9977/live/Tomas/Tomas/36007.ts
+#EXTINF:-1,[XXX] : HOT CLUB 8
+http://iptvtool.es:9977/live/Tomas/Tomas/36006.ts
+#EXTINF:-1,[XXX] : HUSTLER HD
+http://iptvtool.es:9977/live/Tomas/Tomas/36037.ts
+#EXTINF:-1,[XXX] : Nuart Tv
+http://iptvtool.es:9977/live/Tomas/Tomas/36014.ts
+#EXTINF:-1,[XXX] : Nubiles Casting
+http://iptvtool.es:9977/live/Tomas/Tomas/36015.ts
+#EXTINF:-1,[XXX] : PASSION XXX
+http://iptvtool.es:9977/live/Tomas/Tomas/36042.ts
+#EXTINF:-1,[XXX] : PENTHOUSE 1
+http://iptvtool.es:9977/live/Tomas/Tomas/36030.ts
+#EXTINF:-1,[XXX] : Pink O TV
+http://iptvtool.es:9977/live/Tomas/Tomas/36032.ts
+#EXTINF:-1,[XXX] : Venus 
+http://iptvtool.es:9977/live/Tomas/Tomas/36021.ts
+#EXTINF:-1,[XXX] : ? Vivid TV Europe ?
+http://iptvtool.es:9977/live/Tomas/Tomas/36031.ts
+#EXTINF:-1,[XXX] : X Muvi
+http://iptvtool.es:9977/live/Tomas/Tomas/36027.ts
+#EXTINF:-1,[XXX]: Alba XXX-3 ?
+http://iptvtool.es:9977/live/Tomas/Tomas/36050.ts
+#EXTINF:-1,[XXX]: Alba XXX-4 ?
+http://iptvtool.es:9977/live/Tomas/Tomas/36049.ts
+#EXTINF:-1,[XXX]: Alba XXX-5 ?
+http://iptvtool.es:9977/live/Tomas/Tomas/36048.ts
+#EXTINF:-1,[XXX]: Alba XXX-6 ?
+http://iptvtool.es:9977/live/Tomas/Tomas/36047.ts
+#EXTINF:-1,[XXX]: Alba XXX-HD1 ?
+http://iptvtool.es:9977/live/Tomas/Tomas/36052.ts
+
