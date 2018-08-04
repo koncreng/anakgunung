@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,[ID] ANTV
-http://lihattv.us/?play=43397
 #EXTINF:-1,[ID] BERITA SATU World
 http://lihattv.us/?play=43725
 #EXTINF:-1,[ID] BERITA SATU HD
 http://lihattv.us/?play=43724
+#EXTINF:-1,[ID] ANTV
+http://lihattv.us/?play=43397
 #EXTINF:-1,[ID] INDOSIAR
 http://lihattv.us/?play=43400
 #EXTINF:-1,[ID] KOMPAS TV
