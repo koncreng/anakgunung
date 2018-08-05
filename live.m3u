@@ -55,8 +55,6 @@ http://lihattv.us/?play=43350
 http://lihattv.us/?play=43340
 #EXTINF:-1,[TV] AXN
 http://lihattv.us/?play=43341
-#EXTINF:-1,[USA] BBC America
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/2228.ts
 #EXTINF:-1,[TV] FOX LIFE
 http://lihattv.us/?play=43342
 #EXTINF:-1,[TV] FOX
@@ -77,20 +75,6 @@ http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,[Music] MTV USA.
 https://my.iptvx.co:443/live/iptvx/iptvx/2325.ts
-#EXTINF:-1,[Music] MTV UK
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/1922.ts
-#EXTINF:-1,[Music] MTV Base
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/617.ts
-#EXTINF:-1,[Music] MTV Classic
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/1645.ts
-#EXTINF:-1,[Music] MTV Dance
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/614.ts
-#EXTINF:-1,[Music] MTV Hits
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/615.ts
-#EXTINF:-1,[Music] MTV Music
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/618.ts
-#EXTINF:-1,[Music] MTV Rocks
-http://streams.hostwest.org:8080/live/Noelmag36/yPExcmIs97/616.ts
 #EXTINF:-1,[Music] The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1,[TV] SONY CHANNEL
