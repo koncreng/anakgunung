@@ -84,9 +84,9 @@ https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1,[TV] SONY CHANNEL
 http://lihattv.us/?play=43344
 #EXTINF:-1,[TV] NATGEO
-http://lihattv.us/?play=43347
+https://my.iptvx.co:443/live/iptvx/iptvx/2322.ts
 #EXTINF:-1,[TV] NATGEO WILD
-http://lihattv.us/?play=43348
+https://my.iptvx.co:443/live/iptvx/iptvx/1749.ts
 #EXTINF:-1,Outdoor Channel.
 https://my.iptvx.co:443/live/iptvx/iptvx/2324.ts
 #EXTINF:-1,London Live HD
