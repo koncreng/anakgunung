@@ -24,8 +24,6 @@ http://lihattv.us/?play=43398
 #EXTINF:-1,[ID] TRANS TV
 http://lihattv.us/?play=43399
 #EXTINF:-1,[ID] TV ONE
-http://lihattv.us/?play=43402
-#EXTINF:-1,[ID] TV ONE
 http://lihattv.us/?play=43713
 #EXTINF:-1,▁▂▃▅▆▇★☀二【« INTERNATIONAL »】二☀★▇▆▅▃▂▁
 http://lihattv.us/?play=43660
@@ -179,28 +177,3 @@ http://109.248.64.55:15999/udp/239.195.2.3:1234
 http://109.248.64.55:15999/udp/239.195.2.4:1234
 #EXTINF:-1,XXL
 http://109.248.64.55:15999/udp/239.195.2.1:1234
-#EXTINF:-1,|Adult| Pop 1
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3704.ts
-#EXTINF:-1,|Adult| Pop 2
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3703.ts
-#EXTINF:-1,|Adult| Pop 3
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3702.ts
-#EXTINF:-1,|Adult| Pop 4
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3701.ts
-#EXTINF:-1,|Adult| Pop 5
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3700.ts
-#EXTINF:-1,|Adult| Pop 6
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3699.ts
-#EXTINF:-1,|Adult| Pop 7
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3698.ts
-#EXTINF:-1,|Adult| Pop 8
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3697.ts
-#EXTINF:-1,|Adult| Pop 9
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3696.ts
-#EXTINF:-1,|Adult| Pop 10
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3695.ts
-#EXTINF:-1,|Adult| Pop 11
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3694.ts
-#EXTINF:-1,|Adult| Pop 12
-http://193.200.164.194:1144/live/x2_JVEYS9/YzCmVUOd/3693.ts
-#EXTINF:-1,|Adult| Pop 13
