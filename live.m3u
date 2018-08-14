@@ -166,12 +166,12 @@ http://lihattv.us/?play=43506
 #EXTINF:-1,[TV] VoA
 http://lihattv.us/?play=43505
 #EXTINF:-1,▁▂▃▅▆▇★☀二【« A D U L T »】二☀★▇▆▅▃▂▁
-http://212.19.2.77:8080/FrenchLover/index.m3u8
+http://31.128.142.67:3371/udp/239.1.13.4:1234
 #EXTINF:-1,PLAYBOY TV
 http://109.248.69.123:4022/udp/239.195.2.5:1234
-#EXTINF:-1,РУССКАЯ НОЧЬ
-http://109.248.69.123:4022/udp/239.195.2.3:1234
-#EXTINF:-1,BRAZZERS TV 18+
-http://109.248.69.123:4022/udp/239.195.2.4:1234
-#EXTINF:-1,XXL
-http://109.248.69.123:4022/udp/239.195.2.1:1234
+#EXTINF:-1,FrenchLover
+http://31.128.142.67:3371/udp/239.1.13.4:1234
+#EXTINF:-1,Русская ночь
+http://31.128.142.67:3371/udp/239.1.11.53:1234
+#EXTINF:-1,Blue Hustler
+http://31.128.142.67:3371/udp/239.1.12.13:1234
