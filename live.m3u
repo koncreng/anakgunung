@@ -65,10 +65,6 @@ http://lihattv.us/?play=43353
 http://lihattv.us/?play=43354
 #EXTINF:-1,[TV] FOX SPORTS 3
 http://lihattv.us/?play=43355
-#EXTINF:-1,HBO HD (id)
-https://my.iptvx.co:443/live/iptvx/iptvx/1760.ts
-#EXTINF:-1,HBO.
-https://my.iptvx.co:443/live/iptvx/iptvx/2328.ts
 #EXTINF:-1,[Music] Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,[Music] M2O Music
