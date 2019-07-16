@@ -22,7 +22,7 @@ http://lihattv.us/?play=43715
 #EXTINF:1,[ID] SCTV
 http://lihattv.us/?play=43716
 #EXTINF:-1,[ID] TRANS 7
-http://lihattv.us/?play=43744
+http://lihattv.us/?play=43797
 #EXTINF:-1,[ID] TRANS TV
 http://lihattv.us/?play=43745
 #EXTINF:-1,[ID] TV ONE
@@ -94,7 +94,9 @@ http://lihattv.us/?play=43332
 #EXTINF:-1,[MY] DNews
 http://lihattv.us/?play=43333
 #EXTINF:-1,[TV] RT
-http://lihattv.us/?play=43684
+http://lihattv.us/?play=43767
+#EXTINF:-1,[TV] RT Documentary
+http://lihattv.us/?play=43769
 #EXTINF:-1,[TV] KBS World
 http://lihattv.us/?play=43685
 #EXTINF:-1,[TV] Arirang
