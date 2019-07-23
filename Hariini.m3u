@@ -1,0 +1,482 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC World News"  group-title="24/7 NEWS",BBC World News
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/40.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 24"  group-title="24/7 NEWS",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel News Asia"  group-title="24/7 NEWS",Channel News Asia
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/39.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="24/7 NEWS",NHK World
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/35.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg"  group-title="24/7 NEWS",Bloomberg
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/38.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky News"  group-title="24/7 NEWS",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aljazeera En"  group-title="24/7 NEWS",Aljazeera En
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/41.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CCTV 4"  group-title="24/7 NEWS",CCTV 4
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/314.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW"  group-title="24/7 NEWS",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="DOCUMENTARY",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8?IWAK-PEYEK.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo People"  group-title="DOCUMENTARY",Nat Geo People
+http://203.153.218.26:9981/stream/channelid/707541297?ticket=B43B8ED27A5A69A2EDEF706DB73C2A8BDDD5095B&profile=pass
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="DOCUMENTARY",Nat Geo Wild
+http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E!"  group-title="DOCUMENTARY",E!
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/351.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="DOCUMENTARY",Animal Planet
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/67.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEM"  group-title="JAPAN",GEM
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/50.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Family Gekijyo家庭剧场"  group-title="JAPAN",Family Gekijyo家庭剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinefil WOWOW"  group-title="JAPAN",Cinefil WOWOW
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History历史频道"  group-title="JAPAN",History历史频道
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GEMS"  group-title="JAPAN",GEMS
+http://lihattv.us/?play=43353
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="日本朝日台"  group-title="JAPAN",日本朝日台
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Japan Channel DX"  group-title="JAPAN",Japan Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="日本映画 Nihon Eiga TV"  group-title="JAPAN",日本映画 Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NTV News24"  group-title="JAPAN",NTV News24
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="卫星剧场Eisei Gekijo"  group-title="JAPAN",卫星剧场Eisei Gekijo
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN 1 HD"  group-title="KIDS",SONY TEN 1 HD
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/559.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="KIDS",Cartoon Network
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/224.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Astro Ceria"  group-title="KIDS",Astro Ceria
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/554.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Biznet Kidz"  group-title="KIDS",Biznet Kidz
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/71.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="KIDS",Boomerang
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/365.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dunia Anak"  group-title="KIDS",Dunia Anak
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/242.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SONY TEN 2 HD"  group-title="KIDS",SONY TEN 2 HD
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/560.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="KIDS",Disney Channel
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/68.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="KIDS",Disney Junior
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/70.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Junior English"  group-title="KIDS",Disney Junior English
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/567.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony Ten 3 HD"  group-title="KIDS",Sony Ten 3 HD
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/561.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney XD"  group-title="KIDS",Disney XD
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/352.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Da Vinci Kids"  group-title="KIDS",Da Vinci Kids
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/69.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Okto Mediacorp"  group-title="KIDS",Okto Mediacorp
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/339.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BABY First Mandarin"  group-title="KIDS",BABY First Mandarin
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/386.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nicktoons"  group-title="KIDS",Nicktoons
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/565.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="My Kids"  group-title="KIDS",My Kids
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/458.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Baby TV"  group-title="KIDS",Baby TV
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/319.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Miao Mi"  group-title="KIDS",Miao Mi
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/286.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="KIDS",Nickelodeon
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/353.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="KIDS",Nick Jr
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/235.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVRI SPORT"  group-title="LOCAL",TVRI SPORT
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GLOBAL TV"  group-title="LOCAL",GLOBAL TV
+http://202.80.222.174/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NET TV"  group-title="LOCAL",NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV ONE"  group-title="LOCAL",TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KOMPAS TV"  group-title="LOCAL",KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="METRO TV"  group-title="LOCAL",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCTV"  group-title="LOCAL",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCTI"  group-title="LOCAL",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="METRO TV"  group-title="LOCAL",METRO TV
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Foodie"  group-title="LOCAL",Foodie
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/78.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRANS7"  group-title="LOCAL",TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MNC TV"  group-title="LOCAL",MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRANS TV"  group-title="LOCAL",TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="&Flix"  group-title="MOVIE",&Flix
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/285.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="My Cinema"  group-title="MOVIE",My Cinema
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/110.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN ID"  group-title="MOVIE",AXN ID
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/51.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony One"  group-title="MOVIE",Sony One
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/42.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony Channel"  group-title="MOVIE",Sony Channel
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/46.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Movie Now"  group-title="MOVIE",Movie Now
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/563.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO2"  group-title="MOVIE",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Hits ID"  group-title="MOVIE",HBO Hits ID
+http://203.153.218.26:9981/stream/channelid/1742170657?ticket=B84B1E44E14A7F1DF24E5554B7EDFA7010DAE540&profile=pass
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JGO"  group-title="MOVIE",JGO
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/81.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KIX ID"  group-title="MOVIE",KIX ID
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KIX"  group-title="MOVIE",KIX
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/91.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aniplus"  group-title="MOVIE",Aniplus
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/111.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN Movies"  group-title="MOVIE",TVN Movies
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/416.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ZeeBIOSKOP"  group-title="MOVIE",ZeeBIOSKOP
+http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="&PRIVE"  group-title="MOVIE",&PRIVE
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/300.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animax"  group-title="MOVIE",Animax
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/53.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="MOVIE",TLC
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/57.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Movies"  group-title="MOVIE",Star Movies
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/564.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Chinese Movies"  group-title="MOVIE",Star Chinese Movies
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/32.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Syfy"  group-title="MOVIE",Syfy
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/572.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="THRILL TV ID"  group-title="MOVIE",THRILL TV ID
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Thrill"  group-title="MOVIE",Thrill
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/106.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Extra Movie 2"  group-title="MOVIE",Extra Movie 2
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/454.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Extra Movie 3"  group-title="MOVIE",Extra Movie 3
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/456.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Celestial Movies"  group-title="MOVIE",Celestial Movies
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/108.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Extra Movie 1"  group-title="MOVIE",Extra Movie 1
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/453.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Extra Movie 4"  group-title="MOVIE",Extra Movie 4
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/568.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox ID"  group-title="MOVIE",Fox ID
+http://203.153.218.26:9981/stream/channelid/321155929?ticket=DAB810ECF8F1C852D1EA9EF989D39CA0DBA764F8&profile=pass
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CELESTIAL MOVIES ID"  group-title="MOVIE",CELESTIAL MOVIES ID
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Extra Movie 5"  group-title="MOVIE",Extra Movie 5
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/569.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Extra Movie 6"  group-title="MOVIE",Extra Movie 6
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/570.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Diva"  group-title="MOVIE",Diva
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/334.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="MOVIE",Cinemax
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/192.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Celestial Clasic Movie"  group-title="MOVIE",Celestial Clasic Movie
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/576.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Blue Ant Extreme"  group-title="MOVIE",Blue Ant Extreme
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/513.ts
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CinemaWorld"  group-title="MOVIE",CinemaWorld
+http://lihattv.us/?play=43346
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Channel"  group-title="MUSIC",Music Channel
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/304.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Choice"  group-title="MUSIC",Music Choice
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/195.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel V Int"  group-title="MUSIC",Channel V Int
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/59.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Now"  group-title="MUSIC",MTV Now
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/577.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="The Country Network"  group-title="MUSIC",The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Astro Supersport 3"  group-title="SPORT",Astro Supersport 3
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/260.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arena Sport 4"  group-title="SPORT",Arena Sport 4
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/323.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Astro Arena"  group-title="SPORT",Astro Arena
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/425.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 1"  group-title="SPORT",Sport TV 1
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/549.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Astro Supersport 2"  group-title="SPORT",Astro Supersport 2
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/355.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Setanta Sport"  group-title="SPORT",Setanta Sport
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/532.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Setanta Sport+"  group-title="SPORT",Setanta Sport+
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/531.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Astro Supersport 1"  group-title="SPORT",Astro Supersport 1
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/354.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fight Sport"  group-title="SPORT",Fight Sport
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/27.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arena Sport 3"  group-title="SPORT",Arena Sport 3
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/322.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN US"  group-title="SPORT",ESPN US
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/412.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UFC TV"  group-title="SPORT",UFC TV
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/440.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E-Sport EGG"  group-title="SPORT",E-Sport EGG
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/555.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arena Sport 1"  group-title="SPORT",Arena Sport 1
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/320.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arena Sport 2"  group-title="SPORT",Arena Sport 2
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/321.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVRI Sport"  group-title="SPORT",TVRI Sport
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/88.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 3"  group-title="SPORT",Sport TV 3
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/551.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 2"  group-title="SPORT",Sport TV 2
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/550.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WWE NETWORK HD"  group-title="SPORT",WWE NETWORK HD
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/418.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 5"  group-title="SPORT",Sport TV 5
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/553.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sport TV 4"  group-title="SPORT",Sport TV 4
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/552.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MNC Sport"  group-title="SPORT",MNC Sport
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/522.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 4"  group-title="SPORT",Bein Sport 4
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/269.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 5"  group-title="SPORT",Bein Sport 5
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/270.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 3 ID"  group-title="SPORT",Bein Sport 3 ID
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/184.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX Sport 1"  group-title="SPORT",FOX Sport 1
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/30.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MU TV"  group-title="SPORT",MU TV
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/257.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX Sport 2"  group-title="SPORT",FOX Sport 2
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/29.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 8"  group-title="SPORT",Bein Sport 8
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/273.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 9"  group-title="SPORT",Bein Sport 9
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/274.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Golf"  group-title="SPORT",Golf
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/283.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX Sport 3"  group-title="SPORT",FOX Sport 3
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/28.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 6"  group-title="SPORT",Bein Sport 6
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/271.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Liga Indonesia"  group-title="SPORT",Liga Indonesia
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/432.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 7"  group-title="SPORT",Bein Sport 7
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/272.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 10"  group-title="SPORT",Bein Sport 10
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/375.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL Network"  group-title="SPORT",NFL Network
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/411.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 11"  group-title="SPORT",Bein Sport 11
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/275.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 1 ID"  group-title="SPORT",Bein Sport 1 ID
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/185.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 2 ID"  group-title="SPORT",Bein Sport 2 ID
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/186.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Astro Supersport 4"  group-title="SPORT",Astro Supersport 4
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/357.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 1"  group-title="SPORT",Bein Sport 1
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/266.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA TV"  group-title="SPORT",NBA TV
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/358.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 2"  group-title="SPORT",Bein Sport 2
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/267.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 3"  group-title="SPORT",Bein Sport 3
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/268.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sport 12"  group-title="SPORT",Bein Sport 12
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/276.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBS IN HD"  group-title="Unsorted",SBS IN HD
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/579.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Waku-Waku"  group-title="Unsorted",Waku-Waku
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/520.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Home and Living"  group-title="Unsorted",Home and Living
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/400.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Box Hits"  group-title="Unsorted",Box Hits
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/303.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HGTV"  group-title="Unsorted",HGTV
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/55.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Oh!k"  group-title="Unsorted",Oh!k
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/356.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="K+"  group-title="Unsorted",K+
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/92.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Monde Style"  group-title="Unsorted",Monde Style
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/54.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LBS K-Drama"  group-title="Unsorted",LBS K-Drama
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/17.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Asian Food Channel"  group-title="Unsorted",Asian Food Channel
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/56.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arirang"  group-title="Unsorted",Arirang
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/52.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVN"  group-title="Unsorted",TVN
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/58.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Unsorted",MTV Hits
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/255.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV3"  group-title="Unsorted",TV3
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/292.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV9"  group-title="Unsorted",TV9
+http://iptvpremium.site:8888/live/Kabelpedot/Kabelpedot0403/295.ts
+
